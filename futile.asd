@@ -9,4 +9,4 @@
   :version "0.1"
   :author "Ernest Deák <gordon.zar@gmail.com"
   :license "BSD 2-Clause License"
-  :components ((:file "futile/futile")))
+  :components ((:file "futile")))
